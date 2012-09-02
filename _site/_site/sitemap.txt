@@ -1,0 +1,10 @@
+
+http://jknowles.github.com/eeptools/archive.html
+http://jknowles.github.com/eeptools/atom.xml
+http://jknowles.github.com/eeptools/categories.html
+http://jknowles.github.com/eeptools/pages.html
+http://jknowles.github.com/eeptools/sitemap.txt
+http://jknowles.github.com/eeptools/index.html
+http://jknowles.github.com/eeptools/tags.html
+
+http://jknowles.github.com/eeptools/lessons/2011/12/29/jekyll-introduction
